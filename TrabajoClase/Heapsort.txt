@@ -1,0 +1,6 @@
+
+ Arreglo original
+5	-8	4	1	
+ Arreglo ordenado
+[-8][1][4][5]
+Se utilizó el algoritmo de ordenamiento Heapsort
